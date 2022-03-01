@@ -16,7 +16,7 @@ const segundoNumeroFlutuante = .5;
 
 const operacaoFlutuante = numeroFlutuante - segundoNumeroFlutuante;
 
-console.log (operacaoFlutuante)
+console.log (operacaoFlutuante); 
 
 const alura = "alura";
-console.log (alura*numeroFlutuante);
+console.log (alura*numeroFlutuante); 
