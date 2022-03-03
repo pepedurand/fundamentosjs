@@ -37,4 +37,5 @@ const segundaSenha = "pedro1212";
 console.log (segundaSenha.length);
 
 //https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String#m%C3%A9todos
+
  

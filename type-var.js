@@ -1,8 +1,14 @@
-var altura = 5;
-var comprimento = 7;
+//var altura = 5;
+//var comprimento = 7;
+//
+//area = altura*comprimento;
+//
+//console.log (area);
+//
+//var area;
 
-area = altura*comprimento;
+let altura = 5;
+let comprimento = 7;
 
-console.log (area);
-
-var area;
+area = altura * comprimento;
+console.log(area)
