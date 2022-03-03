@@ -12,3 +12,4 @@ let comprimento = 7;
 
 area = altura * comprimento;
 console.log(area)
+

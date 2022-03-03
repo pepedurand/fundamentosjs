@@ -20,3 +20,4 @@ console.log (operacaoFlutuante);
 
 const alura = "alura";
 console.log (alura*numeroFlutuante); 
+
