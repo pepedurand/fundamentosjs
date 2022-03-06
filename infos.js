@@ -11,3 +11,4 @@ console.log (minhaVar) ;
 //linguagem interpretada - diferente de compilada, significa que um programa lê o que será escrito no código
 
 //nodeJS - Não é uma linguagem, é um interpretador de JS
+
